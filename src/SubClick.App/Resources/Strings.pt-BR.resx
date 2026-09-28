@@ -1,0 +1,174 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms</value>
+  </resheader>
+  <data name="WindowTitle" xml:space="preserve">
+    <value>SubClick — Buscar legendas</value>
+  </data>
+  <data name="FirstRun" xml:space="preserve">
+    <value>Escolha o idioma padrão das suas legendas.</value>
+  </data>
+  <data name="SettingsRecovered" xml:space="preserve">
+    <value>Não foi possível ler suas preferências. Selecione o idioma padrão novamente.</value>
+  </data>
+  <data name="RememberExplanation" xml:space="preserve">
+    <value>O SubClick lembrará desta escolha. Você poderá alterá-la na janela de busca.</value>
+  </data>
+  <data name="SaveAndSearch" xml:space="preserve">
+    <value>Salvar e buscar</value>
+  </data>
+  <data name="SubtitleLanguage" xml:space="preserve">
+    <value>Legendas:</value>
+  </data>
+  <data name="InterfaceLanguage" xml:space="preserve">
+    <value>Interface:</value>
+  </data>
+  <data name="SearchTitle" xml:space="preserve">
+    <value>Título do filme ou série</value>
+  </data>
+  <data name="FindName" xml:space="preserve">
+    <value>Buscar pelo nome</value>
+  </data>
+  <data name="FindHash" xml:space="preserve">
+    <value>Buscar pelo hash</value>
+  </data>
+  <data name="UseDefault" xml:space="preserve">
+    <value>Usar como padrão</value>
+  </data>
+  <data name="Download" xml:space="preserve">
+    <value>Baixar selecionada</value>
+  </data>
+  <data name="Release" xml:space="preserve">
+    <value>Versão da legenda / arquivo</value>
+  </data>
+  <data name="ExactHash" xml:space="preserve">
+    <value>Hash exato</value>
+  </data>
+  <data name="Downloads" xml:space="preserve">
+    <value>Downloads</value>
+  </data>
+  <data name="Fps" xml:space="preserve">
+    <value>FPS</value>
+  </data>
+  <data name="Sdh" xml:space="preserve">
+    <value>SDH</value>
+  </data>
+  <data name="Yes" xml:space="preserve">
+    <value>Sim</value>
+  </data>
+  <data name="No" xml:space="preserve">
+    <value>Não</value>
+  </data>
+  <data name="Automatic" xml:space="preserve">
+    <value>Automático</value>
+  </data>
+  <data name="DefaultLabel" xml:space="preserve">
+    <value>Padrão: {0}</value>
+  </data>
+  <data name="Ready" xml:space="preserve">
+    <value>Pronto para buscar.</value>
+  </data>
+  <data name="PreferenceSaved" xml:space="preserve">
+    <value>Idioma padrão salvo.</value>
+  </data>
+  <data name="LanguageChanged" xml:space="preserve">
+    <value>Idioma alterado para esta busca. Escolha buscar pelo hash ou pelo nome.</value>
+  </data>
+  <data name="Hashing" xml:space="preserve">
+    <value>Calculando o hash do vídeo…</value>
+  </data>
+  <data name="SearchingHash" xml:space="preserve">
+    <value>Buscando legendas que correspondem a este vídeo…</value>
+  </data>
+  <data name="SearchingName" xml:space="preserve">
+    <value>Buscando pelo título…</value>
+  </data>
+  <data name="NoResults" xml:space="preserve">
+    <value>Nenhuma legenda encontrada neste idioma. Tente ajustar o título.</value>
+  </data>
+  <data name="ResultsHash" xml:space="preserve">
+    <value>{0} resultado(s) com o hash do vídeo. Selecione uma legenda para baixar.</value>
+  </data>
+  <data name="ResultsName" xml:space="preserve">
+    <value>{0} resultado(s) pelo título. Confira a versão antes de baixar.</value>
+  </data>
+  <data name="ChooseAlternative" xml:space="preserve">
+    <value>Já existe uma legenda. Escolha outro nome de arquivo.</value>
+  </data>
+  <data name="ExistingPreserved" xml:space="preserve">
+    <value>Esse arquivo já existe e foi preservado. Escolha um nome novo.</value>
+  </data>
+  <data name="Downloading" xml:space="preserve">
+    <value>Baixando a legenda selecionada…</value>
+  </data>
+  <data name="Saved" xml:space="preserve">
+    <value>Legenda salva: {0}</value>
+  </data>
+  <data name="SelectVideo" xml:space="preserve">
+    <value>Escolha um vídeo — SubClick</value>
+  </data>
+  <data name="Videos" xml:space="preserve">
+    <value>Vídeos</value>
+  </data>
+  <data name="SingleVideo" xml:space="preserve">
+    <value>Selecione um vídeo por vez.</value>
+  </data>
+  <data name="InvalidVideo" xml:space="preserve">
+    <value>Selecione um arquivo de vídeo existente.</value>
+  </data>
+  <data name="EmptyQuery" xml:space="preserve">
+    <value>Digite o título do filme ou da série.</value>
+  </data>
+  <data name="InvalidLanguage" xml:space="preserve">
+    <value>Selecione um idioma de legenda válido.</value>
+  </data>
+  <data name="InvalidResponse" xml:space="preserve">
+    <value>O serviço de legendas retornou uma resposta inválida. Tente novamente mais tarde.</value>
+  </data>
+  <data name="ServiceError" xml:space="preserve">
+    <value>O serviço de legendas recusou a solicitação ou está indisponível. Tente novamente mais tarde.</value>
+  </data>
+  <data name="TooLarge" xml:space="preserve">
+    <value>O serviço retornou um arquivo vazio ou grande demais.</value>
+  </data>
+  <data name="UnsafeDownload" xml:space="preserve">
+    <value>O serviço retornou um endereço de download inesperado.</value>
+  </data>
+  <data name="MultipartSubtitle" xml:space="preserve">
+    <value>Esta legenda tem várias partes ou um arquivo ambíguo. Escolha outra versão.</value>
+  </data>
+  <data name="UnknownEncoding" xml:space="preserve">
+    <value>Não foi possível identificar a codificação do texto. Escolha outra versão.</value>
+  </data>
+  <data name="DownloadLimit" xml:space="preserve">
+    <value>O serviço retornou um aviso de limite em vez de uma legenda. Nada foi salvo.</value>
+  </data>
+  <data name="InvalidSubtitle" xml:space="preserve">
+    <value>O arquivo baixado não é uma legenda SRT válida. Nada foi salvo.</value>
+  </data>
+  <data name="TimedOut" xml:space="preserve">
+    <value>A operação foi cancelada ou excedeu o tempo de espera. Tente novamente.</value>
+  </data>
+  <data name="AccessDenied" xml:space="preserve">
+    <value>Acesso negado. Verifique a permissão da pasta do vídeo e da pasta de preferências.</value>
+  </data>
+  <data name="NetworkError" xml:space="preserve">
+    <value>Não foi possível conectar ao OpenSubtitles. Verifique sua conexão e tente novamente.</value>
+  </data>
+  <data name="FileError" xml:space="preserve">
+    <value>Não foi possível ler ou salvar o arquivo. Verifique permissões, espaço livre e se o destino já existe.</value>
+  </data>
+  <data name="UnexpectedError" xml:space="preserve">
+    <value>Ocorreu um erro inesperado. Feche o SubClick e tente novamente.</value>
+  </data>
+</root>

@@ -1,0 +1,174 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms</value>
+  </resheader>
+  <data name="WindowTitle" xml:space="preserve">
+    <value>SubClick — Find subtitles</value>
+  </data>
+  <data name="FirstRun" xml:space="preserve">
+    <value>Choose your default subtitle language.</value>
+  </data>
+  <data name="SettingsRecovered" xml:space="preserve">
+    <value>Your preferences could not be read. Please select the default language again.</value>
+  </data>
+  <data name="RememberExplanation" xml:space="preserve">
+    <value>SubClick will remember this choice. You can change it in the search window.</value>
+  </data>
+  <data name="SaveAndSearch" xml:space="preserve">
+    <value>Save and search</value>
+  </data>
+  <data name="SubtitleLanguage" xml:space="preserve">
+    <value>Subtitles:</value>
+  </data>
+  <data name="InterfaceLanguage" xml:space="preserve">
+    <value>Interface:</value>
+  </data>
+  <data name="SearchTitle" xml:space="preserve">
+    <value>Movie or series title</value>
+  </data>
+  <data name="FindName" xml:space="preserve">
+    <value>Search by name</value>
+  </data>
+  <data name="FindHash" xml:space="preserve">
+    <value>Search by hash</value>
+  </data>
+  <data name="UseDefault" xml:space="preserve">
+    <value>Use as default</value>
+  </data>
+  <data name="Download" xml:space="preserve">
+    <value>Download selected</value>
+  </data>
+  <data name="Release" xml:space="preserve">
+    <value>Subtitle release / file</value>
+  </data>
+  <data name="ExactHash" xml:space="preserve">
+    <value>Exact hash</value>
+  </data>
+  <data name="Downloads" xml:space="preserve">
+    <value>Downloads</value>
+  </data>
+  <data name="Fps" xml:space="preserve">
+    <value>FPS</value>
+  </data>
+  <data name="Sdh" xml:space="preserve">
+    <value>SDH</value>
+  </data>
+  <data name="Yes" xml:space="preserve">
+    <value>Yes</value>
+  </data>
+  <data name="No" xml:space="preserve">
+    <value>No</value>
+  </data>
+  <data name="Automatic" xml:space="preserve">
+    <value>Automatic</value>
+  </data>
+  <data name="DefaultLabel" xml:space="preserve">
+    <value>Default: {0}</value>
+  </data>
+  <data name="Ready" xml:space="preserve">
+    <value>Ready to search.</value>
+  </data>
+  <data name="PreferenceSaved" xml:space="preserve">
+    <value>Default language saved.</value>
+  </data>
+  <data name="LanguageChanged" xml:space="preserve">
+    <value>Language changed for this search. Choose search by hash or name.</value>
+  </data>
+  <data name="Hashing" xml:space="preserve">
+    <value>Reading the video hash…</value>
+  </data>
+  <data name="SearchingHash" xml:space="preserve">
+    <value>Searching for subtitles matching this video…</value>
+  </data>
+  <data name="SearchingName" xml:space="preserve">
+    <value>Searching by title…</value>
+  </data>
+  <data name="NoResults" xml:space="preserve">
+    <value>No subtitles found in this language. Try adjusting the title.</value>
+  </data>
+  <data name="ResultsHash" xml:space="preserve">
+    <value>{0} result(s) matching the video hash. Select a subtitle to download.</value>
+  </data>
+  <data name="ResultsName" xml:space="preserve">
+    <value>{0} result(s) by title. Check the release before downloading.</value>
+  </data>
+  <data name="ChooseAlternative" xml:space="preserve">
+    <value>A subtitle already exists. Choose another filename.</value>
+  </data>
+  <data name="ExistingPreserved" xml:space="preserve">
+    <value>That file already exists and was preserved. Choose a new filename.</value>
+  </data>
+  <data name="Downloading" xml:space="preserve">
+    <value>Downloading the selected subtitle…</value>
+  </data>
+  <data name="Saved" xml:space="preserve">
+    <value>Subtitle saved: {0}</value>
+  </data>
+  <data name="SelectVideo" xml:space="preserve">
+    <value>Choose a video — SubClick</value>
+  </data>
+  <data name="Videos" xml:space="preserve">
+    <value>Videos</value>
+  </data>
+  <data name="SingleVideo" xml:space="preserve">
+    <value>Please select one video at a time.</value>
+  </data>
+  <data name="InvalidVideo" xml:space="preserve">
+    <value>Select an existing video file.</value>
+  </data>
+  <data name="EmptyQuery" xml:space="preserve">
+    <value>Enter a movie or series title.</value>
+  </data>
+  <data name="InvalidLanguage" xml:space="preserve">
+    <value>Select a valid subtitle language.</value>
+  </data>
+  <data name="InvalidResponse" xml:space="preserve">
+    <value>The subtitle service returned an invalid response. Please try again later.</value>
+  </data>
+  <data name="ServiceError" xml:space="preserve">
+    <value>The subtitle service refused the request or is unavailable. Please try again later.</value>
+  </data>
+  <data name="TooLarge" xml:space="preserve">
+    <value>The service returned an empty or excessively large file.</value>
+  </data>
+  <data name="UnsafeDownload" xml:space="preserve">
+    <value>The subtitle service returned an unexpected download address.</value>
+  </data>
+  <data name="MultipartSubtitle" xml:space="preserve">
+    <value>This subtitle has multiple parts or an ambiguous archive. Choose another release.</value>
+  </data>
+  <data name="UnknownEncoding" xml:space="preserve">
+    <value>The subtitle text encoding could not be determined safely. Choose another release.</value>
+  </data>
+  <data name="DownloadLimit" xml:space="preserve">
+    <value>The service returned a download-limit notice instead of a subtitle. Nothing was saved.</value>
+  </data>
+  <data name="InvalidSubtitle" xml:space="preserve">
+    <value>The downloaded file is not a valid SRT subtitle. Nothing was saved.</value>
+  </data>
+  <data name="TimedOut" xml:space="preserve">
+    <value>The operation was canceled or timed out. Try again.</value>
+  </data>
+  <data name="AccessDenied" xml:space="preserve">
+    <value>Permission denied. Check access to the video folder and your preferences folder.</value>
+  </data>
+  <data name="NetworkError" xml:space="preserve">
+    <value>Could not connect to OpenSubtitles. Check your connection and try again.</value>
+  </data>
+  <data name="FileError" xml:space="preserve">
+    <value>Could not read or save the file. Check permissions, free space and whether the destination already exists.</value>
+  </data>
+  <data name="UnexpectedError" xml:space="preserve">
+    <value>An unexpected error occurred. Close SubClick and try again.</value>
+  </data>
+</root>

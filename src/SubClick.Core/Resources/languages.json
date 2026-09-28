@@ -1,0 +1,374 @@
+[
+  {
+    "Id": "abk",
+    "Name": "Abkhazian"
+  },
+  {
+    "Id": "afr",
+    "Name": "Afrikaans"
+  },
+  {
+    "Id": "alb",
+    "Name": "Albanian"
+  },
+  {
+    "Id": "ara",
+    "Name": "Arabic"
+  },
+  {
+    "Id": "arg",
+    "Name": "Aragonese"
+  },
+  {
+    "Id": "arm",
+    "Name": "Armenian"
+  },
+  {
+    "Id": "ast",
+    "Name": "Asturian"
+  },
+  {
+    "Id": "aze",
+    "Name": "Azerbaijani"
+  },
+  {
+    "Id": "baq",
+    "Name": "Basque"
+  },
+  {
+    "Id": "bel",
+    "Name": "Belarusian"
+  },
+  {
+    "Id": "ben",
+    "Name": "Bengali"
+  },
+  {
+    "Id": "bos",
+    "Name": "Bosnian"
+  },
+  {
+    "Id": "bre",
+    "Name": "Breton"
+  },
+  {
+    "Id": "bul",
+    "Name": "Bulgarian"
+  },
+  {
+    "Id": "bur",
+    "Name": "Burmese"
+  },
+  {
+    "Id": "cat",
+    "Name": "Catalan"
+  },
+  {
+    "Id": "chi",
+    "Name": "Chinese (simplified)"
+  },
+  {
+    "Id": "zht",
+    "Name": "Chinese (traditional)"
+  },
+  {
+    "Id": "hrv",
+    "Name": "Croatian"
+  },
+  {
+    "Id": "cze",
+    "Name": "Czech"
+  },
+  {
+    "Id": "dan",
+    "Name": "Danish"
+  },
+  {
+    "Id": "prs",
+    "Name": "Dari"
+  },
+  {
+    "Id": "dut",
+    "Name": "Dutch"
+  },
+  {
+    "Id": "eng",
+    "Name": "English"
+  },
+  {
+    "Id": "epo",
+    "Name": "Esperanto"
+  },
+  {
+    "Id": "est",
+    "Name": "Estonian"
+  },
+  {
+    "Id": "ext",
+    "Name": "Extremaduran"
+  },
+  {
+    "Id": "fin",
+    "Name": "Finnish"
+  },
+  {
+    "Id": "fre",
+    "Name": "French"
+  },
+  {
+    "Id": "gla",
+    "Name": "Gaelic"
+  },
+  {
+    "Id": "glg",
+    "Name": "Galician"
+  },
+  {
+    "Id": "geo",
+    "Name": "Georgian"
+  },
+  {
+    "Id": "ger",
+    "Name": "German"
+  },
+  {
+    "Id": "ell",
+    "Name": "Greek"
+  },
+  {
+    "Id": "heb",
+    "Name": "Hebrew"
+  },
+  {
+    "Id": "hin",
+    "Name": "Hindi"
+  },
+  {
+    "Id": "hun",
+    "Name": "Hungarian"
+  },
+  {
+    "Id": "ice",
+    "Name": "Icelandic"
+  },
+  {
+    "Id": "ibo",
+    "Name": "Igbo"
+  },
+  {
+    "Id": "ind",
+    "Name": "Indonesian"
+  },
+  {
+    "Id": "gle",
+    "Name": "Irish"
+  },
+  {
+    "Id": "ita",
+    "Name": "Italian"
+  },
+  {
+    "Id": "jpn",
+    "Name": "Japanese"
+  },
+  {
+    "Id": "kan",
+    "Name": "Kannada"
+  },
+  {
+    "Id": "kaz",
+    "Name": "Kazakh"
+  },
+  {
+    "Id": "khm",
+    "Name": "Khmer"
+  },
+  {
+    "Id": "kor",
+    "Name": "Korean"
+  },
+  {
+    "Id": "kur",
+    "Name": "Kurdish"
+  },
+  {
+    "Id": "lav",
+    "Name": "Latvian"
+  },
+  {
+    "Id": "lit",
+    "Name": "Lithuanian"
+  },
+  {
+    "Id": "ltz",
+    "Name": "Luxembourgish"
+  },
+  {
+    "Id": "mac",
+    "Name": "Macedonian"
+  },
+  {
+    "Id": "may",
+    "Name": "Malay"
+  },
+  {
+    "Id": "mal",
+    "Name": "Malayalam"
+  },
+  {
+    "Id": "mni",
+    "Name": "Manipuri"
+  },
+  {
+    "Id": "mar",
+    "Name": "Marathi"
+  },
+  {
+    "Id": "mon",
+    "Name": "Mongolian"
+  },
+  {
+    "Id": "mne",
+    "Name": "Montenegrin"
+  },
+  {
+    "Id": "nav",
+    "Name": "Navajo"
+  },
+  {
+    "Id": "nep",
+    "Name": "Nepali"
+  },
+  {
+    "Id": "sme",
+    "Name": "Northern Sami"
+  },
+  {
+    "Id": "nor",
+    "Name": "Norwegian"
+  },
+  {
+    "Id": "oci",
+    "Name": "Occitan"
+  },
+  {
+    "Id": "ori",
+    "Name": "Odia"
+  },
+  {
+    "Id": "per",
+    "Name": "Persian"
+  },
+  {
+    "Id": "pol",
+    "Name": "Polish"
+  },
+  {
+    "Id": "por",
+    "Name": "Portuguese"
+  },
+  {
+    "Id": "pob",
+    "Name": "Brazilian Portuguese"
+  },
+  {
+    "Id": "pus",
+    "Name": "Pushto"
+  },
+  {
+    "Id": "rum",
+    "Name": "Romanian"
+  },
+  {
+    "Id": "rus",
+    "Name": "Russian"
+  },
+  {
+    "Id": "sat",
+    "Name": "Santali"
+  },
+  {
+    "Id": "scc",
+    "Name": "Serbian"
+  },
+  {
+    "Id": "snd",
+    "Name": "Sindhi"
+  },
+  {
+    "Id": "sin",
+    "Name": "Sinhalese"
+  },
+  {
+    "Id": "slo",
+    "Name": "Slovak"
+  },
+  {
+    "Id": "slv",
+    "Name": "Slovenian"
+  },
+  {
+    "Id": "spa",
+    "Name": "Spanish"
+  },
+  {
+    "Id": "swa",
+    "Name": "Swahili"
+  },
+  {
+    "Id": "swe",
+    "Name": "Swedish"
+  },
+  {
+    "Id": "syr",
+    "Name": "Syriac"
+  },
+  {
+    "Id": "tgl",
+    "Name": "Tagalog"
+  },
+  {
+    "Id": "tam",
+    "Name": "Tamil"
+  },
+  {
+    "Id": "tat",
+    "Name": "Tatar"
+  },
+  {
+    "Id": "tel",
+    "Name": "Telugu"
+  },
+  {
+    "Id": "tha",
+    "Name": "Thai"
+  },
+  {
+    "Id": "tok",
+    "Name": "Toki Pona"
+  },
+  {
+    "Id": "tur",
+    "Name": "Turkish"
+  },
+  {
+    "Id": "tuk",
+    "Name": "Turkmen"
+  },
+  {
+    "Id": "ukr",
+    "Name": "Ukrainian"
+  },
+  {
+    "Id": "urd",
+    "Name": "Urdu"
+  },
+  {
+    "Id": "vie",
+    "Name": "Vietnamese"
+  },
+  {
+    "Id": "wel",
+    "Name": "Welsh"
+  }
+]

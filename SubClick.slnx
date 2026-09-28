@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/SubClick.App/SubClick.App.csproj" />
+    <Project Path="src/SubClick.Core/SubClick.Core.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/SubClick.Tests/SubClick.Tests.csproj" />
+    <Project Path="tests/SubClick.UiTests/SubClick.UiTests.csproj" />
+  </Folder>
+</Solution>
