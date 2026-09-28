@@ -30,6 +30,11 @@ jobs:
       - name: Build, test and package
         shell: pwsh
         run: ./build.ps1 -Iscc $env:ISCC_PATH
+      - name: Validate installer lifecycle on disposable worker
+        shell: pwsh
+        run: |
+          $installer = (Get-ChildItem artifacts/installer/*-setup.exe).FullName
+          ./scripts/Test-Installer.ps1 -Installer $installer
       - name: Validate release version
         if: startsWith(github.ref, 'refs/tags/')
         shell: pwsh

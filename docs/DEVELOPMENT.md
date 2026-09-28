@@ -20,6 +20,8 @@ dotnet run --project tests/SubClick.Tests -c Release -- --live
 
 Tests use a dependency-free executable runner and fail with a nonzero exit code. They exercise the real core classes with fake HTTP responses/provider implementations, not a live service by default. Test directories are uniquely created below the system temp directory and removed by the runner.
 
+`build.ps1` also runs Windows Forms integration tests in a separate test executable, using a fake provider and an isolated profile. Rendered UI snapshots are saved under `artifacts/ui`. These verify first-run language, automatic search, temporary versus persisted choices, interface translation and download saving. GitHub Actions additionally installs, reinstalls and uninstalls on a disposable Windows worker with `scripts/Test-Installer.ps1`, checking registry associations and preference retention. Windows Server CI does not replace the manual Windows 11 Explorer/DPI check.
+
 ## Architecture
 
 - **Core:** video hash/title parsing; search orchestration; provider interface; XML-RPC adapter; catalog/cache; versioned atomic preferences; ZIP decoding and atomic no-overwrite SRT saving.
