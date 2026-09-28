@@ -9,6 +9,7 @@ Validated on 2026-09-28:
 - Separate live protocol probe: anonymous search/download succeeded; language catalog returned 113 languages.
 - Installer compiled with Inno Setup 7.1.0 x64; self-contained runtime and translated resources included.
 - User confirmed installation, the Windows 11 classic context-menu command and opening the search popup.
+- [Windows CI with live service verification](https://github.com/KevinColeti/SubClick/actions/runs/36472268532): passed. This includes the production C# client's anonymous catalog/search/download and the installer lifecycle on a disposable Windows worker.
 
 The local sandbox cannot use Schannel credentials and does not expose all Windows profile folders to setup. Its full executable network smoke check and silent installation could not complete there. TLS certificate validation remains enabled.
 
